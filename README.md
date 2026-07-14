@@ -43,7 +43,3 @@ Future work will focus on:
 - Vision-based structural vibration monitoring
 - Validation against conventional accelerometer measurements
 - Investigation of low-cost Structural Health Monitoring using consumer-grade cameras
-
-## License
-
-This literature review is shared for educational and research purposes.
